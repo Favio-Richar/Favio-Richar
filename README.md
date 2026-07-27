@@ -82,21 +82,50 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+### 📊 &nbsp;Resumen de mi actividad en GitHub
 
 <p align="center">
   <a href="https://github.com/Favio-Richar">
     <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=Favio-Richar&show_icons=true&theme=algolia&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"
-      alt="Estadísticas de GitHub de Favio Jiménez"
+      width="95%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Favio-Richar&theme=tokyonight"
+      alt="Resumen profesional de la actividad de Favio Jiménez en GitHub"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Favio-Richar?tab=repositories">
+    <img
+      width="46%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Favio-Richar&theme=tokyonight"
+      alt="Lenguajes utilizados en los repositorios de Favio Jiménez"
     />
   </a>
   <a href="https://github.com/Favio-Richar">
     <img
-      width="40%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favio-Richar&layout=donut&langs_count=8&theme=algolia&hide_border=true&border_radius=12"
-      alt="Lenguajes más utilizados por Favio Jiménez"
+      width="46%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Favio-Richar&theme=tokyonight"
+      alt="Lenguajes con más commits de Favio Jiménez"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Favio-Richar">
+    <img
+      width="46%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Favio-Richar&theme=tokyonight"
+      alt="Estadísticas generales de Favio Jiménez"
+    />
+  </a>
+  <a href="https://github.com/Favio-Richar">
+    <img
+      width="46%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Favio-Richar&theme=tokyonight&utcOffset=-4"
+      alt="Horario productivo de Favio Jiménez"
     />
   </a>
 </p>
@@ -108,19 +137,23 @@
       alt="Perfil de GitHub de Favio Jiménez"
     />
   </a>
+
   <a href="https://github.com/Favio-Richar?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Ver%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Repositorios de Favio Jiménez"
+      src="https://img.shields.io/badge/Explorar%20repositorios-0A66C2?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explorar repositorios de Favio Jiménez"
     />
   </a>
+
   <a href="https://github.com/Favio-Richar?tab=overview">
     <img
-      src="https://img.shields.io/badge/Ver%20contribuciones-0969DA?style=for-the-badge&logo=github&logoColor=white"
-      alt="Contribuciones de Favio Jiménez"
+      src="https://img.shields.io/badge/Ver%20contribuciones-1E7FE0?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver contribuciones de Favio Jiménez"
     />
   </a>
 </p>
+
+---
 
 ### 🚀 &nbsp;Proyectos y Soluciones
 
@@ -200,6 +233,8 @@
   </a>
 </p>
 
+---
+
 ### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
@@ -209,21 +244,30 @@
       alt="Enviar correo a Favio Jiménez"
     />
   </a>
+
   <a href="https://github.com/Favio-Richar">
     <img
       src="https://img.shields.io/badge/GitHub-Favio--Richar-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub de Favio Jiménez"
     />
   </a>
+
+  <a href="./CV_Favio_Jimenez_2026.pdf">
+    <img
+      src="https://img.shields.io/badge/Ver%20Currículum-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      alt="Ver currículum de Favio Jiménez"
+    />
+  </a>
 </p>
 
 <!--
-Cuando tengas tus enlaces reales, puedes activar los siguientes botones.
+Cuando tengas tus enlaces reales, puedes activar los botones siguientes.
 
 Para activarlos:
+
 1. Reemplaza cada URL_REAL por el enlace correspondiente.
-2. Quita la apertura de comentario que está antes de <p>.
-3. Quita el cierre de comentario que está después de </p>.
+2. Elimina la línea que contiene la apertura del comentario.
+3. Elimina la línea que contiene el cierre del comentario.
 
 <p align="center">
   <a href="URL_REAL_DE_TU_SITIO_WEB">
