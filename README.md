@@ -19,7 +19,7 @@
 🌱 &nbsp;Actualmente profundizando en Inteligencia Artificial aplicada, automatización de procesos (n8n) y arquitecturas cloud.\
 💡 &nbsp;Apasionado por resolver problemas reales de negocio a través de tecnología, automatización e innovación.\
 💬 &nbsp;Abierto a nuevas oportunidades, colaboraciones y proyectos de desarrollo de software desafiantes.\
-✉️ &nbsp;Puedes escribirme a **TU_EMAIL@ejemplo.com** — con gusto conversamos.\
+✉️ &nbsp;Puedes escribirme a **FAVIO4515@GMAIL.COM** — con gusto conversamos.\
 📄 &nbsp;Revisa mi currículum y proyectos para conocer más sobre mi trabajo: [Currículum](TU_URL_CURRICULUM). ¡Abierto a feedback y sugerencias!
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="320"/>
