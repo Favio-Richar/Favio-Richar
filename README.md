@@ -1,112 +1,107 @@
-![Favio Jiménez Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+<!--
+  README de perfil de GitHub — Favio Jiménez
+  Reemplaza cada "TU_..." por tu dato real antes de pegarlo en el repo
+  especial de perfil (el repo debe llamarse igual que tu usuario de GitHub,
+  ej. github.com/Favio-Richar/Favio-Richar).
+-->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Favio Jiménez 👋</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,100:1E7FE0&height=220&section=header&text=Favio%20Jim%C3%A9nez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Visionary%20AI%20Group&descAlignY=58&descSize=18&animation=fadeIn" alt="Favio Jiménez Banner" width="100%"/>
+</p>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Favio Jiménez 👋</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨‍💻 &nbsp;I'm a Computer Engineer and Full Stack Developer from Chile, specialized in Backend Development, Artificial Intelligence and Enterprise Software.\
-💼 &nbsp;Founder & CEO of Visionary AI Group, building scalable web applications, SaaS platforms and AI-powered business solutions.\
-🎓 &nbsp;Computer Engineer with experience in software development, IT support, networking and business systems.\
-🌱 &nbsp;Currently expanding my knowledge in Artificial Intelligence, Cloud Computing, Microservices and Cybersecurity.\
-💡 &nbsp;Passionate about solving real-world problems through technology, automation and innovation.\
-💬 &nbsp;Open to new opportunities, collaborations and challenging software development projects.\
-✉️ &nbsp;You can reach me at YOUR_EMAIL@example.com. I'll be happy to connect with you!\
-📄 &nbsp;Feel free to check my résumé and GitHub projects to learn more about my work. [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+👨‍💻 &nbsp;Ingeniero en Informática y Full Stack Developer desde Chile, especializado en Backend, Inteligencia Artificial y Software Empresarial.\
+💼 &nbsp;Founder & CEO de **Visionary AI Group** — agencia de ingeniería de software que construye ERPs, CRMs, SaaS y soluciones de negocio potenciadas con IA.\
+🎓 &nbsp;Ingeniero en Informática con experiencia en desarrollo de software, infraestructura, automatización y sistemas de negocio a medida.\
+🌱 &nbsp;Actualmente profundizando en Inteligencia Artificial aplicada, automatización de procesos (n8n) y arquitecturas cloud.\
+💡 &nbsp;Apasionado por resolver problemas reales de negocio a través de tecnología, automatización e innovación.\
+💬 &nbsp;Abierto a nuevas oportunidades, colaboraciones y proyectos de desarrollo de software desafiantes.\
+✉️ &nbsp;Puedes escribirme a **TU_EMAIL@ejemplo.com** — con gusto conversamos.\
+📄 &nbsp;Revisa mi currículum y proyectos para conocer más sobre mi trabajo: [Currículum](TU_URL_CURRICULUM). ¡Abierto a feedback y sugerencias!
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="320"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+### 🤖 &nbsp;IA & Automatización
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
+
+### 🗃 &nbsp;Bases de Datos & Infraestructura
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
 
-
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Herramientas & Control de Versiones
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<!-- Reemplaza TU_USUARIO_GITHUB por tu usuario real de GitHub (según tu
+     repo actual pareciera ser "Favio-Richar" -- confírmalo). -->
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/TU_USUARIO_GITHUB">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/TU_USUARIO_GITHUB">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;My Badges 
+### 💰 &nbsp;Apoya mi Trabajo
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](TU_URL_BUYMEACOFFEE)
 
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
-
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conecta Conmigo
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="TU_URL_SITIO_WEB"><img src="https://img.shields.io/badge/-Visionary%20AI%20Group-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="TU_URL_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:TU_EMAIL@ejemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="TU_URL_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="TU_URL_FACEBOOK"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="TU_URL_WHATSAPP"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+<a href="TU_URL_TWITTER"><img src="https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
+### 🐍 &nbsp;Así se mueven mis commits...
 
+<!-- El snake requiere que actives el GitHub Action correspondiente en tu
+     propio repo de perfil (workflow "platane/snk") -- de lo contrario esta
+     imagen no se genera. Guía: https://github.com/Platane/snk -->
 <div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <a href="https://github.com/TU_USUARIO_GITHUB/">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<p align="center"><em>© 2026 Favio Jiménez — Visionary AI Group</em></p>
