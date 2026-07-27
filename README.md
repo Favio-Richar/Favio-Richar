@@ -1,28 +1,50 @@
 <!--
   README de perfil de GitHub — Favio Jiménez
-  Reemplaza cada "TU_..." por tu dato real antes de pegarlo en el repo
-  especial de perfil (el repo debe llamarse igual que tu usuario de GitHub,
-  ej. github.com/Favio-Richar/Favio-Richar).
+
+  Reemplaza solamente los campos que comienzan con "TU_":
+  - TU_URL_BUYMEACOFFEE
+  - TU_URL_SITIO_WEB
+  - TU_URL_LINKEDIN
+  - TU_URL_INSTAGRAM
+  - TU_URL_FACEBOOK
+  - TU_URL_WHATSAPP
+  - TU_URL_TWITTER
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,100:1E7FE0&height=220&section=header&text=Favio%20Jim%C3%A9nez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Visionary%20AI%20Group&descAlignY=58&descSize=18&animation=fadeIn" alt="Favio Jiménez Banner" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,100:1E7FE0&height=220&section=header&text=Favio%20Jim%C3%A9nez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Visionary%20AI%20Group&descAlignY=58&descSize=18&animation=fadeIn"
+    alt="Favio Jiménez Banner"
+    width="100%"
+  />
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Favio Jiménez 👋</h2>
+<img
+  alt="Night Coding"
+  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+  width="40"
+  align="left"
+/>
+
+<h2 align="left">Hey there! I'm Favio Jiménez 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 👨‍💻 &nbsp;Ingeniero en Informática y Full Stack Developer desde Chile, especializado en Backend, Inteligencia Artificial y Software Empresarial.\
-💼 &nbsp;Founder & CEO de **Visionary AI Group** — agencia de ingeniería de software que construye ERPs, CRMs, SaaS y soluciones de negocio potenciadas con IA.\
-🎓 &nbsp;Ingeniero en Informática con experiencia en desarrollo de software, infraestructura, automatización y sistemas de negocio a medida.\
-🌱 &nbsp;Actualmente profundizando en Inteligencia Artificial aplicada, automatización de procesos (n8n) y arquitecturas cloud.\
-💡 &nbsp;Apasionado por resolver problemas reales de negocio a través de tecnología, automatización e innovación.\
-💬 &nbsp;Abierto a nuevas oportunidades, colaboraciones y proyectos de desarrollo de software desafiantes.\
+💼 &nbsp;Founder & CEO de **Visionary AI Group**, agencia de ingeniería de software que construye ERPs, CRMs, plataformas SaaS y soluciones de negocio potenciadas con Inteligencia Artificial.\
+🎓 &nbsp;Ingeniero en Informática con experiencia en desarrollo de software, infraestructura tecnológica, automatización y sistemas de negocio a medida.\
+🌱 &nbsp;Actualmente profundizando en Inteligencia Artificial aplicada, automatización de procesos con n8n y arquitecturas cloud.\
+💡 &nbsp;Apasionado por resolver problemas reales de negocio mediante tecnología, automatización e innovación.\
+💬 &nbsp;Abierto a nuevas oportunidades, colaboraciones y proyectos desafiantes de desarrollo de software.\
 ✉️ &nbsp;Puedes escribirme a **FAVIO4515@GMAIL.COM** — con gusto conversamos.\
-📄 &nbsp;Revisa mi currículum y proyectos para conocer más sobre mi trabajo: 📄 [Ver mi Currículum](./CV_Favio_Jimenez_2026.pdf). ¡Abierto a feedback y sugerencias!
+📄 &nbsp;Revisa mi currículum y proyectos para conocer más sobre mi trabajo: [Ver mi Currículum](./CV_Favio_Jimenez_2026.pdf). ¡Abierto a feedback y sugerencias!
 
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="320"/>
+<img
+  alt="Coding"
+  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+  align="right"
+  width="320"
+/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -63,18 +85,30 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!-- Reemplaza TU_USUARIO_GITHUB por tu usuario real de GitHub (según tu
-     repo actual pareciera ser "Favio-Richar" -- confírmalo). -->
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Favio-Richar">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Favio-Richar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      alt="Estadísticas de GitHub de Favio Jiménez"
+    />
   </a>
-  <a href="https://github.com/TU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=algolia"/>
+
+  <a href="https://github.com/Favio-Richar">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Favio-Richar&layout=compact&langs_count=8&theme=algolia"
+      alt="Lenguajes más utilizados por Favio Jiménez"
+    />
   </a>
 </p>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=true"/>
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Favio-Richar&theme=dark&hide_border=true"
+    alt="Racha de contribuciones de Favio Jiménez"
+  />
 </p>
 
 ### 💰 &nbsp;Apoya mi Trabajo
@@ -84,25 +118,102 @@
 ### 🤝🏻 &nbsp;Conecta Conmigo
 
 <p align="center">
-<a href="TU_URL_SITIO_WEB"><img src="https://img.shields.io/badge/-Visionary%20AI%20Group-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="TU_URL_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:TU_EMAIL@ejemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="TU_URL_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="TU_URL_FACEBOOK"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="TU_URL_WHATSAPP"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-<a href="TU_URL_TWITTER"><img src="https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="TU_URL_SITIO_WEB">
+    <img
+      src="https://img.shields.io/badge/-Visionary%20AI%20Group-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
+      alt="Sitio web de Visionary AI Group"
+    />
+  </a>
+
+  <a href="TU_URL_LINKEDIN">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"
+      alt="LinkedIn de Favio Jiménez"
+    />
+  </a>
+
+  <a href="mailto:FAVIO4515@GMAIL.COM">
+    <img
+      src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"
+      alt="Correo electrónico de Favio Jiménez"
+    />
+  </a>
+
+  <a href="TU_URL_INSTAGRAM">
+    <img
+      src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
+      alt="Instagram de Favio Jiménez"
+    />
+  </a>
+
+  <a href="TU_URL_FACEBOOK">
+    <img
+      src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"
+      alt="Facebook de Favio Jiménez"
+    />
+  </a>
+
+  <a href="TU_URL_WHATSAPP">
+    <img
+      src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"
+      alt="WhatsApp de Favio Jiménez"
+    />
+  </a>
+
+  <a href="TU_URL_TWITTER">
+    <img
+      src="https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white"
+      alt="Perfil de X de Favio Jiménez"
+    />
+  </a>
 </p>
 
-### 🐍 &nbsp;Así se mueven mis commits...
+### 🚀 &nbsp;Proyectos & Soluciones
 
-<!-- El snake requiere que actives el GitHub Action correspondiente en tu
-     propio repo de perfil (workflow "platane/snk") -- de lo contrario esta
-     imagen no se genera. Guía: https://github.com/Platane/snk -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Favio-Richar/Favio-Richar/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation dark"
-  />
+  <strong>
+    Desarrollo soluciones tecnológicas modernas orientadas a resolver
+    necesidades reales de empresas y organizaciones.
+  </strong>
 </p>
 
-<p align="center"><em>© 2026 Favio Jiménez — Visionary AI Group</em></p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏢 Software Empresarial</h3>
+      <p>
+        Sistemas ERP, CRM, plataformas administrativas y soluciones de gestión
+        desarrolladas según las necesidades de cada organización.
+      </p>
+    </td>
+
+    <td align="center" width="33%">
+      <h3>🤖 Inteligencia Artificial</h3>
+      <p>
+        Integración de IA, asistentes inteligentes, automatización de procesos
+        y soluciones empresariales potenciadas con modelos de lenguaje.
+      </p>
+    </td>
+
+    <td align="center" width="33%">
+      <h3>☁️ Plataformas SaaS</h3>
+      <p>
+        Aplicaciones web escalables, seguras y preparadas para operar en
+        entornos cloud con arquitectura moderna.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Favio-Richar?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Ver%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver repositorios de Favio Jiménez"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <em>© 2026 Favio Jiménez — Visionary AI Group</em>
+</p>
