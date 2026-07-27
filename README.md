@@ -98,10 +98,11 @@
 <!-- El snake requiere que actives el GitHub Action correspondiente en tu
      propio repo de perfil (workflow "platane/snk") -- de lo contrario esta
      imagen no se genera. Guía: https://github.com/Platane/snk -->
-<div align="center">
-  <a href="https://github.com/TU_USUARIO_GITHUB/">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Favio-Richar/Favio-Richar/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation dark"
+  />
+</p>
 
 <p align="center"><em>© 2026 Favio Jiménez — Visionary AI Group</em></p>
