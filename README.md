@@ -1,18 +1,23 @@
 <!--
   README de perfil de GitHub — Favio Jiménez
   Repositorio: Favio-Richar/Favio-Richar
+
+  Archivos requeridos en la raíz del repositorio:
+  - README.md
+  - banner.png
+  - CV_Favio_Jimenez_2026.pdf
 -->
 
 <p align="center">
   <img
     src="./banner.png"
-    alt="Banner de Favio Jiménez"
+    alt="Banner profesional de Favio Jiménez"
     width="100%"
   />
 </p>
 
 <img
-  alt="Saludo"
+  alt="Saludo animado"
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif"
   width="40"
   align="left"
@@ -46,7 +51,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -58,25 +63,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Favio-Richar">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Favio-Richar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-      alt="Estadísticas de GitHub de Favio Jiménez"
-    />
-  </a>
-
-  <a href="https://github.com/Favio-Richar">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favio-Richar&layout=compact&langs_count=8&theme=algolia"
-      alt="Lenguajes más utilizados por Favio Jiménez"
-    />
-  </a>
-</p>
 
 ### 🗃 &nbsp;Bases de Datos e Infraestructura
 
@@ -90,13 +76,30 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;Actividad en GitHub
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Favio-Richar">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=Favio-Richar&show_icons=true&theme=algolia&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"
+      alt="Estadísticas de GitHub de Favio Jiménez"
+    />
+  </a>
+  <a href="https://github.com/Favio-Richar">
+    <img
+      width="40%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favio-Richar&layout=donut&langs_count=8&theme=algolia&hide_border=true&border_radius=12"
+      alt="Lenguajes más utilizados por Favio Jiménez"
+    />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Favio-Richar">
@@ -105,14 +108,12 @@
       alt="Perfil de GitHub de Favio Jiménez"
     />
   </a>
-
   <a href="https://github.com/Favio-Richar?tab=repositories">
     <img
       src="https://img.shields.io/badge/Ver%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Repositorios de Favio Jiménez"
     />
   </a>
-
   <a href="https://github.com/Favio-Richar?tab=overview">
     <img
       src="https://img.shields.io/badge/Ver%20contribuciones-0969DA?style=for-the-badge&logo=github&logoColor=white"
@@ -123,32 +124,77 @@
 
 ### 🚀 &nbsp;Proyectos y Soluciones
 
-Desarrollo soluciones tecnológicas modernas orientadas a resolver necesidades reales de empresas y organizaciones.
+<p align="center">
+  <strong>
+    Desarrollo soluciones tecnológicas modernas orientadas a automatizar procesos,
+    mejorar operaciones y generar valor real para empresas y organizaciones.
+  </strong>
+</p>
 
-#### 🏢 Software Empresarial
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/SOFTWARE%20EMPRESARIAL-ERP%20·%20CRM%20·%20Sistemas%20de%20gestión-0A2647?style=for-the-badge&logo=databricks&logoColor=white"
+    alt="Software empresarial"
+  />
+</p>
 
-Desarrollo de sistemas ERP, CRM, plataformas administrativas y soluciones de gestión adaptadas a los procesos y necesidades de cada organización.
+<p align="center">
+  Desarrollo de sistemas ERP, CRM, plataformas administrativas,
+  módulos de gestión y soluciones adaptadas a los procesos de cada organización.
+</p>
 
-#### 🤖 Inteligencia Artificial
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/INTELIGENCIA%20ARTIFICIAL-Asistentes%20·%20Automatización%20·%20LLM-412991?style=for-the-badge&logo=openai&logoColor=white"
+    alt="Inteligencia Artificial"
+  />
+</p>
 
-Integración de Inteligencia Artificial, asistentes inteligentes, automatización de procesos y soluciones empresariales potenciadas con modelos de lenguaje.
+<p align="center">
+  Integración de Inteligencia Artificial, asistentes virtuales,
+  automatización con n8n y soluciones potenciadas con modelos de lenguaje.
+</p>
 
-#### ☁️ Plataformas SaaS
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/PLATAFORMAS%20SAAS-Cloud%20·%20Escalabilidad%20·%20Seguridad-1E7FE0?style=for-the-badge&logo=icloud&logoColor=white"
+    alt="Plataformas SaaS"
+  />
+</p>
 
-Construcción de aplicaciones web escalables, seguras y preparadas para operar en infraestructuras cloud con arquitecturas modernas.
+<p align="center">
+  Construcción de aplicaciones web escalables, seguras,
+  multiusuario y preparadas para operar en infraestructura cloud.
+</p>
 
-#### 🔗 APIs e Integraciones
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/APIs%20E%20INTEGRACIONES-REST%20·%20Pagos%20·%20Servicios%20externos-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="APIs e integraciones"
+  />
+</p>
 
-Desarrollo de APIs REST, integración con plataformas externas, servicios de terceros, sistemas de pago, herramientas de comunicación y soluciones empresariales.
+<p align="center">
+  Desarrollo de APIs REST e integración con sistemas de pago,
+  plataformas externas, herramientas de comunicación y servicios empresariales.
+</p>
 
-#### 📱 Aplicaciones Web y Móviles
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/APLICACIONES%20WEB%20Y%20MÓVILES-Responsive%20·%20Paneles%20·%20UX-6F42C1?style=for-the-badge&logo=react&logoColor=white"
+    alt="Aplicaciones web y móviles"
+  />
+</p>
 
-Desarrollo de interfaces modernas, aplicaciones web responsivas, paneles administrativos y soluciones móviles adaptadas a distintos dispositivos.
+<p align="center">
+  Desarrollo de interfaces modernas, aplicaciones web responsivas,
+  paneles administrativos y soluciones adaptadas a distintos dispositivos.
+</p>
 
 <p align="center">
   <a href="https://github.com/Favio-Richar?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Ver%20mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/VER%20MIS%20PROYECTOS-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Ver proyectos de Favio Jiménez"
     />
   </a>
@@ -163,7 +209,6 @@ Desarrollo de interfaces modernas, aplicaciones web responsivas, paneles adminis
       alt="Enviar correo a Favio Jiménez"
     />
   </a>
-
   <a href="https://github.com/Favio-Richar">
     <img
       src="https://img.shields.io/badge/GitHub-Favio--Richar-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -173,11 +218,14 @@ Desarrollo de interfaces modernas, aplicaciones web responsivas, paneles adminis
 </p>
 
 <!--
-Cuando tengas tus enlaces reales, puedes activar estos botones quitando
-los símbolos de comentario HTML.
+Cuando tengas tus enlaces reales, puedes activar los siguientes botones.
+
+Para activarlos:
+1. Reemplaza cada URL_REAL por el enlace correspondiente.
+2. Quita la apertura de comentario que está antes de <p>.
+3. Quita el cierre de comentario que está después de </p>.
 
 <p align="center">
-
   <a href="URL_REAL_DE_TU_SITIO_WEB">
     <img
       src="https://img.shields.io/badge/Visionary%20AI%20Group-3423A6?style=for-the-badge&logo=googlechrome&logoColor=white"
@@ -212,7 +260,6 @@ los símbolos de comentario HTML.
       alt="WhatsApp de Favio Jiménez"
     />
   </a>
-
 </p>
 -->
 
