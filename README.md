@@ -1,46 +1,38 @@
 <!--
   README de perfil de GitHub — Favio Jiménez
-
-  Reemplaza solamente los campos que comienzan con "TU_":
-  - TU_URL_BUYMEACOFFEE
-  - TU_URL_SITIO_WEB
-  - TU_URL_LINKEDIN
-  - TU_URL_INSTAGRAM
-  - TU_URL_FACEBOOK
-  - TU_URL_WHATSAPP
-  - TU_URL_TWITTER
+  Repositorio: Favio-Richar/Favio-Richar
 -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,100:1E7FE0&height=220&section=header&text=Favio%20Jim%C3%A9nez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Visionary%20AI%20Group&descAlignY=58&descSize=18&animation=fadeIn"
-    alt="Favio Jiménez Banner"
+    src="./banner.png"
+    alt="Banner de Favio Jiménez"
     width="100%"
   />
 </p>
 
 <img
-  alt="Night Coding"
-  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+  alt="Saludo"
+  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif"
   width="40"
   align="left"
 />
 
-<h2 align="left">Hey there! I'm Favio Jiménez 👋</h2>
+<h2 align="left">¡Hola! Soy Favio Jiménez 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨‍💻 &nbsp;Ingeniero en Informática y Full Stack Developer desde Chile, especializado en Backend, Inteligencia Artificial y Software Empresarial.\
-💼 &nbsp;Founder & CEO de **Visionary AI Group**, agencia de ingeniería de software que construye ERPs, CRMs, plataformas SaaS y soluciones de negocio potenciadas con Inteligencia Artificial.\
-🎓 &nbsp;Ingeniero en Informática con experiencia en desarrollo de software, infraestructura tecnológica, automatización y sistemas de negocio a medida.\
-🌱 &nbsp;Actualmente profundizando en Inteligencia Artificial aplicada, automatización de procesos con n8n y arquitecturas cloud.\
-💡 &nbsp;Apasionado por resolver problemas reales de negocio mediante tecnología, automatización e innovación.\
-💬 &nbsp;Abierto a nuevas oportunidades, colaboraciones y proyectos desafiantes de desarrollo de software.\
-✉️ &nbsp;Puedes escribirme a **FAVIO4515@GMAIL.COM** — con gusto conversamos.\
-📄 &nbsp;Revisa mi currículum y proyectos para conocer más sobre mi trabajo: [Ver mi Currículum](./CV_Favio_Jimenez_2026.pdf). ¡Abierto a feedback y sugerencias!
+👨‍💻 &nbsp;Ingeniero en Informática y Full Stack Developer de Chile, especializado en Backend, Inteligencia Artificial y Software Empresarial.\
+💼 &nbsp;Founder & CEO de **Visionary AI Group**, empresa de ingeniería de software dedicada al desarrollo de sistemas ERP, CRM, plataformas SaaS y soluciones de negocio potenciadas con Inteligencia Artificial.\
+🎓 &nbsp;Cuento con experiencia en desarrollo de software, infraestructura tecnológica, automatización, soporte TI y sistemas empresariales a medida.\
+🌱 &nbsp;Actualmente continúo profundizando en Inteligencia Artificial aplicada, automatización de procesos con n8n y arquitecturas cloud.\
+💡 &nbsp;Me apasiona resolver problemas reales de negocio mediante tecnología, automatización e innovación.\
+💬 &nbsp;Estoy abierto a nuevas oportunidades laborales, colaboraciones y proyectos desafiantes de desarrollo de software.\
+✉️ &nbsp;Puedes escribirme a **FAVIO4515@GMAIL.COM**.\
+📄 &nbsp;Conoce más sobre mi experiencia profesional: [Ver mi Currículum](./CV_Favio_Jimenez_2026.pdf).
 
 <img
-  alt="Coding"
+  alt="Desarrollo de software"
   src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
   align="right"
   width="320"
@@ -51,29 +43,31 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### 🤖 &nbsp;IA & Automatización
+<br clear="right"/>
+
+### 🤖 &nbsp;IA y Automatización
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Bases de Datos & Infraestructura
+### 🗃 &nbsp;Bases de Datos e Infraestructura
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Herramientas & Control de Versiones
+### 🧰 &nbsp;Herramientas y Control de Versiones
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -83,135 +77,130 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Actividad en GitHub
 
 <p align="center">
   <a href="https://github.com/Favio-Richar">
     <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Favio-Richar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-      alt="Estadísticas de GitHub de Favio Jiménez"
+      src="https://img.shields.io/badge/Perfil%20de%20GitHub-Favio--Richar-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Perfil de GitHub de Favio Jiménez"
     />
   </a>
 
-  <a href="https://github.com/Favio-Richar">
+  <a href="https://github.com/Favio-Richar?tab=repositories">
     <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Favio-Richar&layout=compact&langs_count=8&theme=algolia"
-      alt="Lenguajes más utilizados por Favio Jiménez"
+      src="https://img.shields.io/badge/Ver%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Repositorios de Favio Jiménez"
+    />
+  </a>
+
+  <a href="https://github.com/Favio-Richar?tab=overview">
+    <img
+      src="https://img.shields.io/badge/Ver%20contribuciones-0969DA?style=for-the-badge&logo=github&logoColor=white"
+      alt="Contribuciones de Favio Jiménez"
     />
   </a>
 </p>
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Favio-Richar&theme=dark&hide_border=true"
-    alt="Racha de contribuciones de Favio Jiménez"
-  />
-</p>
+### 🚀 &nbsp;Proyectos y Soluciones
 
-### 💰 &nbsp;Apoya mi Trabajo
+Desarrollo soluciones tecnológicas modernas orientadas a resolver necesidades reales de empresas y organizaciones.
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](TU_URL_BUYMEACOFFEE)
+#### 🏢 Software Empresarial
 
-### 🤝🏻 &nbsp;Conecta Conmigo
+Desarrollo de sistemas ERP, CRM, plataformas administrativas y soluciones de gestión adaptadas a los procesos y necesidades de cada organización.
 
-<p align="center">
-  <a href="TU_URL_SITIO_WEB">
-    <img
-      src="https://img.shields.io/badge/-Visionary%20AI%20Group-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
-      alt="Sitio web de Visionary AI Group"
-    />
-  </a>
+#### 🤖 Inteligencia Artificial
 
-  <a href="TU_URL_LINKEDIN">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"
-      alt="LinkedIn de Favio Jiménez"
-    />
-  </a>
+Integración de Inteligencia Artificial, asistentes inteligentes, automatización de procesos y soluciones empresariales potenciadas con modelos de lenguaje.
 
-  <a href="mailto:FAVIO4515@GMAIL.COM">
-    <img
-      src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"
-      alt="Correo electrónico de Favio Jiménez"
-    />
-  </a>
+#### ☁️ Plataformas SaaS
 
-  <a href="TU_URL_INSTAGRAM">
-    <img
-      src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
-      alt="Instagram de Favio Jiménez"
-    />
-  </a>
+Construcción de aplicaciones web escalables, seguras y preparadas para operar en infraestructuras cloud con arquitecturas modernas.
 
-  <a href="TU_URL_FACEBOOK">
-    <img
-      src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"
-      alt="Facebook de Favio Jiménez"
-    />
-  </a>
+#### 🔗 APIs e Integraciones
 
-  <a href="TU_URL_WHATSAPP">
-    <img
-      src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"
-      alt="WhatsApp de Favio Jiménez"
-    />
-  </a>
+Desarrollo de APIs REST, integración con plataformas externas, servicios de terceros, sistemas de pago, herramientas de comunicación y soluciones empresariales.
 
-  <a href="TU_URL_TWITTER">
-    <img
-      src="https://img.shields.io/badge/-X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white"
-      alt="Perfil de X de Favio Jiménez"
-    />
-  </a>
-</p>
+#### 📱 Aplicaciones Web y Móviles
 
-### 🚀 &nbsp;Proyectos & Soluciones
-
-<p align="center">
-  <strong>
-    Desarrollo soluciones tecnológicas modernas orientadas a resolver
-    necesidades reales de empresas y organizaciones.
-  </strong>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🏢 Software Empresarial</h3>
-      <p>
-        Sistemas ERP, CRM, plataformas administrativas y soluciones de gestión
-        desarrolladas según las necesidades de cada organización.
-      </p>
-    </td>
-
-    <td align="center" width="33%">
-      <h3>🤖 Inteligencia Artificial</h3>
-      <p>
-        Integración de IA, asistentes inteligentes, automatización de procesos
-        y soluciones empresariales potenciadas con modelos de lenguaje.
-      </p>
-    </td>
-
-    <td align="center" width="33%">
-      <h3>☁️ Plataformas SaaS</h3>
-      <p>
-        Aplicaciones web escalables, seguras y preparadas para operar en
-        entornos cloud con arquitectura moderna.
-      </p>
-    </td>
-  </tr>
-</table>
+Desarrollo de interfaces modernas, aplicaciones web responsivas, paneles administrativos y soluciones móviles adaptadas a distintos dispositivos.
 
 <p align="center">
   <a href="https://github.com/Favio-Richar?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Ver%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Ver repositorios de Favio Jiménez"
+      src="https://img.shields.io/badge/Ver%20mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver proyectos de Favio Jiménez"
     />
   </a>
+</p>
+
+### 🤝🏻 &nbsp;Conecta conmigo
+
+<p align="center">
+  <a href="mailto:FAVIO4515@GMAIL.COM">
+    <img
+      src="https://img.shields.io/badge/Email-FAVIO4515%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Enviar correo a Favio Jiménez"
+    />
+  </a>
+
+  <a href="https://github.com/Favio-Richar">
+    <img
+      src="https://img.shields.io/badge/GitHub-Favio--Richar-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub de Favio Jiménez"
+    />
+  </a>
+</p>
+
+<!--
+Cuando tengas tus enlaces reales, puedes activar estos botones quitando
+los símbolos de comentario HTML.
+
+<p align="center">
+
+  <a href="URL_REAL_DE_TU_SITIO_WEB">
+    <img
+      src="https://img.shields.io/badge/Visionary%20AI%20Group-3423A6?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Sitio web de Visionary AI Group"
+    />
+  </a>
+
+  <a href="URL_REAL_DE_LINKEDIN">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn de Favio Jiménez"
+    />
+  </a>
+
+  <a href="URL_REAL_DE_INSTAGRAM">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram de Favio Jiménez"
+    />
+  </a>
+
+  <a href="URL_REAL_DE_FACEBOOK">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook de Favio Jiménez"
+    />
+  </a>
+
+  <a href="URL_REAL_DE_WHATSAPP">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp de Favio Jiménez"
+    />
+  </a>
+
+</p>
+-->
+
+---
+
+<p align="center">
+  <strong>Tecnología con propósito, innovación con impacto.</strong>
 </p>
 
 <p align="center">
