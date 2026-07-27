@@ -58,6 +58,25 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Favio-Richar">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Favio-Richar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      alt="Estadísticas de GitHub de Favio Jiménez"
+    />
+  </a>
+
+  <a href="https://github.com/Favio-Richar">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favio-Richar&layout=compact&langs_count=8&theme=algolia"
+      alt="Lenguajes más utilizados por Favio Jiménez"
+    />
+  </a>
+</p>
 
 ### 🗃 &nbsp;Bases de Datos e Infraestructura
 
