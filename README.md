@@ -28,7 +28,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 👨‍💻 &nbsp;Ingeniero en Informática y Full Stack Developer de Chile, especializado en Backend, Inteligencia Artificial y Software Empresarial.\
-💼 &nbsp;Founder & CEO de **Visionary AI Group**, empresa de ingeniería de software dedicada al desarrollo de sistemas ERP, CRM, plataformas SaaS y soluciones de negocio potenciadas con Inteligencia Artificial.\
+💼 &nbsp;Visionary AI Group, empresa de ingeniería de software dedicada al desarrollo de sistemas ERP, CRM, plataformas SaaS y soluciones de negocio potenciadas con Inteligencia Artificial.\
 🎓 &nbsp;Cuento con experiencia en desarrollo de software, infraestructura tecnológica, automatización, soporte TI y sistemas empresariales a medida.\
 🌱 &nbsp;Actualmente continúo profundizando en Inteligencia Artificial aplicada, automatización de procesos con n8n y arquitecturas cloud.\
 💡 &nbsp;Me apasiona resolver problemas reales de negocio mediante tecnología, automatización e innovación.\
