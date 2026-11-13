@@ -23,17 +23,37 @@
   align="left"
 />
 
+
 <h2 align="left">¡Hola! Soy Favio Jiménez 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨‍💻 &nbsp;Ingeniero en Informática y Full Stack Developer de Chile, especializado en Backend, Inteligencia Artificial y Software Empresarial.\
-💼 &nbsp;Visionary AI Group, empresa de ingeniería de software dedicada al desarrollo de sistemas ERP, CRM, plataformas SaaS y soluciones de negocio potenciadas con Inteligencia Artificial.\
-🎓 &nbsp;Cuento con experiencia en desarrollo de software, infraestructura tecnológica, automatización, soporte TI y sistemas empresariales a medida.\
-🌱 &nbsp;Actualmente continúo profundizando en Inteligencia Artificial aplicada, automatización de procesos con n8n y arquitecturas cloud.\
-💡 &nbsp;Me apasiona resolver problemas reales de negocio mediante tecnología, automatización e innovación.\
-💬 &nbsp;Estoy abierto a nuevas oportunidades laborales, colaboraciones y proyectos desafiantes de desarrollo de software.\
-✉️ &nbsp;Puedes escribirme a **FAVIO4515@GMAIL.COM**.\
+👨‍💻 &nbsp;Ingeniero Informático de Chile, titulado con Distinción Máxima, Full Stack Developer especializado en desarrollo Backend, Ingeniería de Datos, Inteligencia Artificial y Software Empresarial.
+
+💼 &nbsp;Desarrollo soluciones tecnológicas enfocadas en sistemas ERP, CRM, plataformas SaaS, aplicaciones web y software empresarial a medida, integrando Inteligencia Artificial y automatización de procesos.
+
+🚀 &nbsp;Diseño y desarrollo soluciones de software de extremo a extremo, desde la arquitectura y las bases de datos hasta la implementación, integración de APIs y despliegue en producción.
+
+🤖 &nbsp;Experiencia integrando modelos de Inteligencia Artificial (LLM), APIs de OpenAI, Claude, Gemini y modelos locales, desarrollando agentes inteligentes y automatizaciones de procesos empresariales.
+
+📊 &nbsp;Conocimientos en Ingeniería de Datos, Python, pandas, SQL, procesos ETL, análisis de información, visualización de datos y desarrollo de pipelines.
+
+🛠️ &nbsp;Trabajo con tecnologías como Python, TypeScript, JavaScript, FastAPI, NestJS, React, Angular, Next.js, PostgreSQL, SQL Server, Docker, Linux y GitHub Actions.
+
+🔐 &nbsp;Conocimientos en ciberseguridad y hacking ético, reconocimiento de redes, análisis de vulnerabilidades y herramientas como Nmap y Shodan.
+
+🏢 &nbsp;Experiencia profesional en infraestructura tecnológica, soporte TI corporativo y bancario, integración con SAP Business One, automatización y administración de sistemas.
+
+🎓 &nbsp;Actualmente curso un **Diplomado en Ingeniería de Datos con Python en la Universidad de Las Américas (UDLA)**, fortaleciendo mis conocimientos en procesamiento, modelamiento y análisis de datos.
+
+🌱 &nbsp;Continúo profundizando en Inteligencia Artificial aplicada, automatización con n8n, arquitecturas cloud, DevOps y desarrollo de soluciones escalables.
+
+💡 &nbsp;Me apasiona resolver problemas reales mediante ingeniería de software, análisis de datos, automatización e innovación tecnológica.
+
+🤝 &nbsp;Abierto a oportunidades laborales, colaboraciones profesionales y proyectos desafiantes en desarrollo de software, Ingeniería de Datos e Inteligencia Artificial.
+
+✉️ &nbsp;Puedes escribirme a **FAVIO4515@GMAIL.COM**.
+
 📄 &nbsp;Conoce más sobre mi experiencia profesional: [Ver mi Currículum](./CV_Favio_Jimenez_2026.pdf).
 
 <img
@@ -42,6 +62,7 @@
   align="right"
   width="320"
 />
+
 
 ### 🛠 &nbsp;Tech Stack
 
